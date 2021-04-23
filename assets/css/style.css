@@ -69,7 +69,7 @@ p {
   display: inline;
 }
 
-.btn-back {
+.btn {
   border-radius: var(--border-radius);
   color: var(--primary);
   border: none;
@@ -85,7 +85,7 @@ p {
   font-size: 1.2rem;
 }
 
- .btn-back:hover {
+ .btn:hover {
   color: var(--primary);
   background-color: var(--tertiary);
   transform: translate(0, 0);
